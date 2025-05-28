@@ -1,8 +1,9 @@
 numpy
-pandas 
+pandas
 matplotlib
 seaborn
+plotly
 nbformat
-scikit-learn
-statsmodels
+requests
+beautifulsoup4
 ipykernel

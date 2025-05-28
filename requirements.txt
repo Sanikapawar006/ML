@@ -1,8 +1,0 @@
-numpy
-pandas 
-matplotlib
-seaborn
-nbformat
-scikit-learn
-statsmodels
-ipykernel
